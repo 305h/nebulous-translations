@@ -79,7 +79,7 @@
     <string name="START">"TÚCHÁIN"</string>
     <string name="CREATE">"CREATE"</string>
     <string name="CUSTOM_GAMES">"GAMES CUSTOM"</string>
-    <string name="CHAT">"CHAT"</string>
+    <string name="CHAT">"CHACHATT"</string>
     <string name="CUSTOM_SETUP">"SETUP CUSTOM"</string>
     <string name="CHAT_SETUP">"SETUP CHAT"</string>
 
@@ -350,7 +350,7 @@
     <string name="Collect_1000_pumpkins_">"Bailigh 1,000 pumpkin."</string>
 
     <string name="FFAC">"FFAC"</string>
-    <string name="NONE">"NONE"</string>
+    <string name="NONE">"AON"</string>
     <string name="CLAN_WAR">"CLAN WAR"</string>
     <string name="Clan_War">"Clan War"</string>
 
